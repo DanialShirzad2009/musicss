@@ -1,0 +1,31 @@
+body{
+	background-color: "lightgrey";
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Grey_background.jpg/1200px-Grey_background.jpg");
+	
+}
+button{
+	margin: 30px;
+	
+}
+
+.div1{
+	bottom:0;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+.text{
+	margin: 50px;
+}
+
+.div2{
+	bottom:50;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+h4 {
+	font-size:2px;
+  }
